@@ -5,12 +5,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an aspiring developer with a drive to create and a passion for turning ideas into reality. I’m fascinated by the way technology can solve problems, and I'm always on the lookout for my next big learning adventure.
+
+💻 Building my first website: breaking things, fixing them, and celebrating small wins along the way.
+🚀 Constantly learning and expanding my skill set.
+💡 I'm driven by a desire to innovate and bring a fresh perspective to every project I undertake.
+🧠 Lifelong learner, constantly seeking out new knowledge and skills to grow.
+
+Connect with me
+🌐 Portfolio: [Your Portfolio Link]
+
+🔗 LinkedIn: [Your LinkedIn Profile]
+
+✉️ Email: [Your Email Address]
+
