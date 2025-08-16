@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-<!--
-**isabela-schwindt/isabela-schwindt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I'm an aspiring developer with a drive to create and a passion for turning ideas into reality. I'm fascinated by the way technology can solve problems, and I'm always on the lookout for my next big learning adventure.
+I'm Isabela, an aspiring developer with a passion for turning ideas into reality. I'm fascinated by the way technology can solve problems, and I'm always on the lookout for my next big learning adventure.
 
 * 💻 Building my first website: breaking things, fixing them, and celebrating small wins along the way.
 * 🚀 Constantly learning and expanding my skill set, with a particular interest in the exciting field of machine learning.
@@ -18,6 +16,6 @@ I'm an aspiring developer with a drive to create and a passion for turning ideas
 * 🔗 **LinkedIn:** [https://www.linkedin.com/in/isabelaschwindt/]
 * ✉️ **Email:** [isabelaaschwindt@gmail.com]
 
-"The expert in anything was once a beginner."
+> "The expert in anything was once a beginner."
 
 
